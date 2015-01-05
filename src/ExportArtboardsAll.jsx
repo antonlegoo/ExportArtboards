@@ -1,0 +1,1 @@
+﻿#include 'ExportArtboard.jsx'// For each artboardfor( var i=0; i < app.activeDocument.artboards.length; i++ ){    SaveArtboardAtIndex(i);}
